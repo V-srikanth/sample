@@ -13,7 +13,7 @@ public class StudentController {
 	}
 	@GetMapping("/")
 	public String home() {
-		return "srikanth";
+		return "sri";
 	}
 
 }
